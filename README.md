@@ -1,2 +1,1 @@
-# PrimeiroProjeto
-Projeto referente aos ensinamentos de HTML e CSS (ONEBITCODE)
+Meu primeiro projeto referente as aulas de HTML e CSS - Curso de Fullstack Javascript - ONEBITCODE
